@@ -1,1 +1,2 @@
 make sure everything is saved in the same folder. I found this code works best when running in Spyder (free to download python runner). Run the code from Spyder then use UI to input wav files and time overlap. An overlap of 3 seconds is recomended for a better performance without tkaing overly long to run
+Saves predictions in an excell spreadsheet with time stamps, this spread sheet is save in same foler as python script. The greater the SSE confidence number is, the more liekly it is to be correct.
